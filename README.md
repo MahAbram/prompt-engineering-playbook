@@ -28,6 +28,9 @@ This leaves professionals frustrated: you know AI can save you time, but you end
 
 The playbook is organized into four parts, moving from foundational architecture to advanced autonomous reasoning.
 
+### Start Here (Optional but Recommended)
+* **The 30-Minute Path:** A short chapter for the reader whose prompts almost work but don't. The core mental shift from asking to architecting, the CRAFT framework in five lines, the single technique that prevents most hallucinations, and the one-sentence Escape Hatch you should add to factual extraction prompts today.
+
 ### Part 1: The Architectural Foundation
 * **The Engineering Mindset:** Why "prompting" is dead and "engineering" is required.
 * **The CRAFT Framework:** Isolating Context, Role, Action, Format, and Target.
@@ -63,6 +66,7 @@ The playbook is organized into four parts, moving from foundational architecture
 
 This is a **live document**. The discipline of prompt engineering evolves rapidly.
 
+* **If you only have 30 minutes:** Read the *Start Here* chapter. It gives you CRAFT, the Chain-of-Thought scratchpad pattern, and the Escape Hatch — three patterns that together will lift the quality of your prompts immediately.
 * **Read it linearly** to systematically upgrade your AI skills from basic to advanced.
 * **Jump to Part 2** if you are struggling with a specific AI hallucination or logic failure today.
 * **Consult Part 4** to steal our plug-and-play COSTAR and RISEN frameworks for immediate corporate use.

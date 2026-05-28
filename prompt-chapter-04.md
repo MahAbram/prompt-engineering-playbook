@@ -1,4 +1,4 @@
-# Part 4: Advanced AI Fluency (Under the Hood)
+# Part 4: Advanced Prompt Engineering (Under the Hood)
 
 ## Chapter 4.1: Alternative Frameworks (COSTAR, RISEN, RTF)
 

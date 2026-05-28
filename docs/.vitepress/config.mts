@@ -1,9 +1,9 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "AI Integration Playbook",
+  title: "Prompt Engineering Playbook",
   description: "A Playbook for the Modern Professional",
-  base: '/ai-integration-playbook/',
+  base: '/prompt-engineering-playbook/',
   appearance: 'dark',
 
   themeConfig: {

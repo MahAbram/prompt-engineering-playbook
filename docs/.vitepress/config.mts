@@ -77,7 +77,7 @@ export default defineConfig({
           { text: '4.1 Alternative Frameworks (COSTAR, RISEN, RTF)', link: '/chapter-4-1' },
           { text: '4.2 Advanced Reasoning — Beyond the Straight Line', link: '/chapter-4-2' },
           { text: '4.3 Autonomous Patterns & Agentic Architecture', link: '/chapter-4-3' },
-          { text: '4.4 The Engineer's Control Panel', link: '/chapter-4-4' },
+          { text: '4.4 The Engineering Control Panel', link: '/chapter-4-4' },
           { text: '4.5 Tool-Specific Syntax — Engineering for the Big Four Platforms', link: '/chapter-4-5' },
           { text: '4.6 QA, Integrity, and Governance', link: '/chapter-4-6' },
         ]

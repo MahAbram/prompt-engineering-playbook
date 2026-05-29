@@ -31,19 +31,19 @@ This leaves professionals frustrated: you know AI can save you time, but you end
 ## The Structure
 
 The playbook is organized into four parts, moving from foundational architecture to advanced autonomous reasoning.
-
+ 
 ### Start Here (Optional but Recommended)
 * **The 30-Minute Path:** A short chapter for the reader whose prompts almost work but don't. The core mental shift from asking to architecting, the CRAFT framework in five lines, the single technique that prevents most hallucinations, and the one-sentence Escape Hatch you should add to factual extraction prompts today.
 
 ### Part 1: The Architectural Foundation
 * **The Engineering Mindset:** Why "prompting" is dead and "engineering" is required.
 * **The CRAFT Framework:** Isolating Context, Role, Action, Format, and Target.
-* **The Master Prompt:** Deconstructing a production-grade corporate workflow.
+* **CRAFT in Action:** Deconstructing production-grade prompts across Operations, Finance, and HR — and stress-testing what breaks when a pillar is missing.
 
 ### Part 2: High-Performance Prompting Techniques
-* **Showing, Not Telling:** Mastering Few-Shot Prompting to enforce brand voice.
-* **Forcing the Logic:** Chain-of-Thought (CoT) and negative constraints.
-* **Building Workflows:** Prompt Chaining, Pipelines, and surgical follow-ups.
+* **Diagnosing Failure:** The anatomy of a bad prompt and how to read it.
+* **The Core Techniques:** Few-Shot, Chain-of-Thought, Prompt Chaining, and surgical follow-ups.
+* **The Advanced Toolkit:** Self-Consistency, Role Stacking, Negative, Decomposition, Contrastive, and Iterative Refinement — consolidated into a single Techniques Catalogue.
 
 ### Part 3: Defensive Prompting (Navigating Limitations)
 * **Taming Hallucinations:** Fact-checking, citations, and the "Escape Hatch."
@@ -52,9 +52,9 @@ The playbook is organized into four parts, moving from foundational architecture
 
 ### Part 4: Advanced AI Fluency (Under the Hood)
 * **Alternative Frameworks:** COSTAR for nuance, RISEN for SOPs, RTF for formatting.
-* **Advanced Reasoning:** Tree-of-Thought (ToT) and Self-Consistency prompting.
-* **The Engineer's Toolkit:** Manipulating Temperature, System Prompts, and XML tags.
-* **QA & Governance:** Running Evals and maintaining professional integrity.
+* **Advanced Reasoning:** Tree-of-Thought, Analogical Reasoning, and Prompt-Based Debate.
+* **The Engineer's Control Panel:** Manipulating Temperature, System Prompts, and Context Windows.
+* **Tool-Specific Syntax & Governance:** Engineering for the Big Four platforms, plus running Evals and maintaining professional integrity.
 
 ---
 

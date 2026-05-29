@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Prompt Engineering Playbook"
   text: "A Playbook for the Modern Professional"
-  tagline: "Expanding from regular prompting to thoughful engineering."
+  tagline: "Expanding from regular prompting to thoughtful engineering."
   actions:
     - theme: brand
       text: Start Here →
@@ -14,10 +14,10 @@ hero:
       link: https://github.com/MahAbram/prompt-engineering-playbook
 
 features:
-  - title: Fix this
-    details: No Python, no jargon. Written for HR leads, analysts, ops managers, and marketers.
-  - title: Later
-    details: A repeatable methodology — Context, Clarity, Constraint, Content — for boardroom-ready results.
-  - title: The Multi-Model Strategy
-    details: Compare ChatGPT, Claude, Gemini, and Copilot against your own real work.
+  - title: Architectural Frameworks
+    details: Go beyond basic chat with CRAFT, COSTAR, and RISEN — structurally sound prompts that work every time.
+  - title: Logic & Reasoning Control
+    details: Use Chain-of-Thought, Few-Shot, and advanced reasoning to cut hallucinations and force reliable output.
+  - title: Tool-Specific Mastery
+    details: Engineer for the quirks of Claude, ChatGPT, Gemini, and Copilot to get the best from each platform.
 ---
